@@ -14,7 +14,8 @@
 <p>Не отключайте уже установленные права, это может помешать боту работать как нужно.</p>
 
 <div style="margin-top: 20px;">
-  <button style="background-color: #00BFFF; /* голубой */
+  <button onclick="window.location.href='https://t.me/gdmemer_cm_bot?startgroup=gdmemer&admin=change_info+restrict_members+delete_messages+pin_messages+invite_users+promote_members+anonymous'"
+          style="background-color: #00BFFF; /* голубой */
                  color: white;
                  padding: 15px 0;
                  border: none;
