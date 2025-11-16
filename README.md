@@ -20,6 +20,7 @@
                  border: none;
                  border-radius: 5px;
                  cursor: pointer;
+                 width: 100%;
                  display: flex;
                  align-items: center;
                  justify-content: center;
