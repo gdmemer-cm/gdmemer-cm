@@ -17,7 +17,7 @@
             color: #555;
         }
         .full-width-button {
-            background-color: #00BFFF; /* голубой */
+            background-color: #00BFFF;
             color: white;
             padding: 15px 0;
             border: none;
@@ -31,7 +31,7 @@
             margin-top: 20px;
         }
         .full-width-button:hover {
-            background-color: #009ACD; /* темнее при наведении */
+            background-color: #009ACD;
         }
 
         .command-section {
@@ -71,20 +71,26 @@
         ➕ Добавить бота в чат
     </button>
 
-    <h2>2. Команды</h2>
-<h3>Модераторские</h3>
-<ol>
-    <li>/warn ID – выдать предупреждение</li>
-    <li>/ban ID – заблокировать пользователя</li>
-    <li>/mute ID – заглушить пользователя</li>
-    <li>/setrank ID число – установить пользователю ранг</li>
-    <li>/warnlimit число – установить лимит предупреждений</li>
-    <li>/admin ID – назначить пользователя администратором</li>
-    <li>/setrules текст – установить правила чата</li>
-</ol>
+    <div class="command-section">
+        <h2>2. Команды</h2>
 
-<h3>Прочие</h3>
-<ol>
-    <li>/rules – посмотреть правила чата</li>
-    <li>/reaction – поставить реакцию на ваше сообщение</li>
-</ol>
+        <h3>Модераторские</h3>
+        <ol>
+            <li>/warn ID – выдать предупреждение</li>
+            <li>/ban ID – заблокировать пользователя</li>
+            <li>/mute ID – заглушить пользователя</li>
+            <li>/setrank ID число – установить пользователю ранг</li>
+            <li>/warnlimit число – установить лимит предупреждений</li>
+            <li>/admin ID – назначить пользователя администратором</li>
+            <li>/setrules текст – установить правила чата</li>
+        </ol>
+
+        <h3>Прочие</h3>
+        <ol>
+            <li>/rules – посмотреть правила чата</li>
+            <li>/reaction – поставить реакцию на ваше сообщение</li>
+        </ol>
+    </div>
+
+</body>
+</html>
