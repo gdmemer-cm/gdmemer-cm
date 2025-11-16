@@ -91,4 +91,3 @@
             <li>/reaction – поставить реакцию на ваше сообщение</li>
         </ol>
     </div>
-<a href="https://ibb.co/8LcGk36y"><img src="https://i.ibb.co/ycSK2TWz/qvaj3kqkt601zmuwgglzlu8399zfzx9p.png" alt="qvaj3kqkt601zmuwgglzlu8399zfzx9p" border="0" /></a>
